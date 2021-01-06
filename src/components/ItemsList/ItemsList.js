@@ -24,7 +24,7 @@ function ItemsList(props) {
 
     return(
         <div className="items_list_div">
-            <Link to="/FortniteApiCall/"><h2 className="back">&#x21a9; Go Back</h2></Link>
+            <Link to="/apicalls20/"><h2 className="back">&#x21a9; Go Back</h2></Link>
             <h1 className="heading">Items List</h1>
             <p className="click_on">Click on the name of item to learn more</p>
             {items}
