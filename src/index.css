@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: myFont;
+  src: url(./fonts/project1.ttf);
+}
+
+@font-face {
+  font-family: myFontBold;
+  src: url(./fonts/project1bold.ttf);
+}
+
+.app_div {
+  width: 100vw;
+  height: 100vh;
+  background: #2980B9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: myFont;
+}
+
+.btp-button {
+  position: fixed;
+  z-index: 3;
+  bottom: 10vh;
+  border: 2px solid black;
+  padding: 1vh;
+  border-radius: 10px;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+  width: 10vw;
+  margin-left: 45vw;
+  height: 6vh;
+  outline: none;
+  font-family: myFontBold;
+}
