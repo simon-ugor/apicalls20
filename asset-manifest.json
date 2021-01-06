@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/apicalls20/static/css/main.7fa841a7.chunk.css",
+    "main.js": "/apicalls20/static/js/main.c48ac15e.chunk.js",
+    "main.js.map": "/apicalls20/static/js/main.c48ac15e.chunk.js.map",
+    "runtime-main.js": "/apicalls20/static/js/runtime-main.a365ad7b.js",
+    "runtime-main.js.map": "/apicalls20/static/js/runtime-main.a365ad7b.js.map",
+    "static/js/2.f67b209a.chunk.js": "/apicalls20/static/js/2.f67b209a.chunk.js",
+    "static/js/2.f67b209a.chunk.js.map": "/apicalls20/static/js/2.f67b209a.chunk.js.map",
+    "static/js/3.f97d056b.chunk.js": "/apicalls20/static/js/3.f97d056b.chunk.js",
+    "static/js/3.f97d056b.chunk.js.map": "/apicalls20/static/js/3.f97d056b.chunk.js.map",
+    "index.html": "/apicalls20/index.html",
+    "static/css/main.7fa841a7.chunk.css.map": "/apicalls20/static/css/main.7fa841a7.chunk.css.map",
+    "static/js/2.f67b209a.chunk.js.LICENSE.txt": "/apicalls20/static/js/2.f67b209a.chunk.js.LICENSE.txt",
+    "static/media/fortnite1.6bf3442c.png": "/apicalls20/static/media/fortnite1.6bf3442c.png",
+    "static/media/fortnite2.13ce957b.png": "/apicalls20/static/media/fortnite2.13ce957b.png",
+    "static/media/index.css": "/apicalls20/static/media/project1bold.c67d0304.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a365ad7b.js",
+    "static/js/2.f67b209a.chunk.js",
+    "static/css/main.7fa841a7.chunk.css",
+    "static/js/main.c48ac15e.chunk.js"
+  ]
+}
